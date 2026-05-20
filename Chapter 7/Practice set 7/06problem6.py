@@ -1,0 +1,8 @@
+# Write the program to calculate the factorial of a given number usin for loop.
+
+n = int(input("Enter the number : "))
+factorial = 1
+
+for i in range(1,n+1):
+        factorial = factorial*i
+print(f"The factorial of {n} is {factorial}")
