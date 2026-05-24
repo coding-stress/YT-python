@@ -8,4 +8,4 @@ if("twinkle" in poem):
 
 else:
     print(" The word Twinklw is not present in the poem ")
-f.close
+f.close()
