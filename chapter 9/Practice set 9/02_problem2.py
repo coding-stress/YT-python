@@ -19,5 +19,4 @@ def game():
             print(f"high score is : {score} ")
         return score
         
-
 game()
